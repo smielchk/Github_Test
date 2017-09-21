@@ -12,4 +12,8 @@ public class MainActivity extends AppCompatActivity {
     }
     void aaaa(){}
     //ajgl ag
+    void B(){}
+    void C(){}
+    public String b;
+
 }
